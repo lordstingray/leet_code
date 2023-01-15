@@ -5,5 +5,10 @@ Leet Code Cheat Code Sheet
   - Merge sort
   - Double exists
   - Remove element
+  - Mountain array
   - Duplicate zeros
   - Remove duplicates
+
+
+- Extras:
+  - Repeated digits in number
